@@ -19,31 +19,19 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack
 
-### Programming Languages
 <div align="center">
 
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,java,go,cpp&titles=true)
+### 🚀 Programming Languages
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,java,go,cpp&titles=true&perline=6)
 
-</div>
+### 🎨 Frontend Development
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,typescript,javascript&titles=true&perline=6)
 
-### Frontend Development
-<div align="center">
+### ⚙️ Backend Development
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,express&titles=true&perline=3)
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html5,css3,typescript,javascript&titles=true)
-
-</div>
-
-### Backend Development
-<div align="center">
-
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,express&titles=true)
-
-</div>
-
-### Databases & Storage
-<div align="center">
-
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,sqlite&titles=true)
+### 🗄️ Databases & Storage
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql&titles=true&perline=3)
 
 </div>
 
