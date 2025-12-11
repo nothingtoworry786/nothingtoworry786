@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎨 3D Contribution Graph
+---
 
-This profile features an automatically generated 3D contribution graph that updates daily via GitHub Actions. The workflow runs every day at 18:00 UTC to keep the visualization up to date.
+## 🎨 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](profile-3d-contrib/profile-night-green.svg)
+
+</div>
+
+---
+
