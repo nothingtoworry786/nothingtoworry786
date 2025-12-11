@@ -1,19 +1,6 @@
-## Hi there 👋
+## Hello, I'm Mohammed Fazil Momin
 
-<!--
-**nothingtoworry786/nothingtoworry786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a passionate software developer who loves tackling complex challenges, building innovative solutions, and contributing to the open-source community. Explore my repositories below to see my latest projects and contributions.
 
 ---
 
@@ -35,6 +22,24 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://spoo.me/Fazil-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://spoo.me/fazil-x" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://spoo.me/instagram-fazil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mominmasty1214@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
